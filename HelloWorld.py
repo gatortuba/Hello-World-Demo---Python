@@ -4,9 +4,6 @@
 from tkinter import *
 from tkinter import messagebox
 
-import ctypes  # An included library with Python install.
-
-
 #Funtion to display the message box
 def HWMessageBox():
      var = messagebox.showinfo('Hello World', 'Hello World')
